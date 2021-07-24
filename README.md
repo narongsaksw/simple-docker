@@ -2,7 +2,7 @@
 
 Build an image based on the dockerfile in the current directory [tag name]:
 ```
-docker build -t [tag name]
+docker build -t [tag name].
 ```
 
 Create and start container based on the provided image id or tag:
